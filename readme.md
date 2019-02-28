@@ -9,7 +9,7 @@ bwip-js is a translation to native JavaScript of the amazing code provided in [B
 
 1. Clone this repository
 ```bash
-$ git clone https://github.com/padiazg/barcode-generator.git
+$ git clone https://github.com/steve-krisjanovs/barcode-generator.git
 ```
 2. Change to the folder just created
 ```bash
